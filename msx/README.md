@@ -15,7 +15,7 @@ when a lower-RAM MSX1 is using on-screen VRAM pattern storage as work RAM earlie
 <img width="537" alt="image" src="https://github.com/user-attachments/assets/15924f9f-074a-41d4-a8b9-9d97a4cc0a61" />
 
 ### screenshots
-2432 digits computed on an (emulated) MSX with 16K of RAM and 16K of VRAM using the 8k+ version
+2432 digits computed on an (emulated) MSX with 16K of RAM and 16K of VRAM using the 8k+ version *(256x192)*
 <img width="537" alt="image" src="https://github.com/user-attachments/assets/ac8b3d8f-9db2-470f-94fc-0e52f51eb51c" />
 
 1392 digits computed on an (emulated) MSX with 8K of RAM and 16K of VRAM using the 8k+ version
@@ -23,6 +23,9 @@ when a lower-RAM MSX1 is using on-screen VRAM pattern storage as work RAM earlie
 
 2432 digits computed on an (emulated) MSX2+ using the 8k+ version *(about 1 hour 33 minutes)*
 <img width="537" alt="image" src="https://github.com/user-attachments/assets/fa4e68d2-df6c-4ffd-9d1c-da85fbe61cff" />
+
+2688 digits computed on an (emulated) MSX turbo R using the full version *(256x212)*
+<img width="1466" height="1079" alt="image" src="https://github.com/user-attachments/assets/22faac7e-acfc-4e38-8b5f-26c2ebe8ee54" />
 
 5376 digits computed on an (emulated) MSX turbo R using the full version *(512x212)*
 <img width="537" alt="image" src="https://github.com/user-attachments/assets/5dada8d2-13d6-45f8-83eb-7b0cc2cbf5b4" />
