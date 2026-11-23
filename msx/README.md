@@ -9,3 +9,5 @@ digit capacities:
 **full version** MSX2+DiskROM, 64K (no mapper): 10752 digits; tR+DiskROM, 1024k mapper: 10752 digits; MSX 24k: 2432 digits; MSX 48k: 2432 digits; MSX2+DiskROM, 64K mapper: 10752 digits; MSX2+ +DiskROM, 128k mapper: 10752 digits; MSX 16k: 1408 digits; MSX+DiskROM, 64k (no mapper): 2432 digits.
 
 **8k+ version** MSX 8k: 1392 digits; MSX/2/2+/tR 16k+: 2432 digits
+
+when a lower-RAM MSX1 is using on-screen VRAM pattern storage as work RAM earlier in the computation that is intentionally visible.
