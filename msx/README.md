@@ -1,4 +1,4 @@
-MSX-family single-screen pi spigot
+## MSX-family single-screen pi spigot
 
 there are two versions: the full version which is a single monolithing BASIC listing with embedded compressed relocatable machine code, and which requires at least 16k of Z80 RAM and supports enhanced graphics modes on MSX2/2+/turboR; and the reduced-feature version runnable on any MSX with 8k or more of Z80 RAM, which BLOAD's the machine code separately and then relocates it. the reduced version is actually constructed from the full version by a MERGE'd-in transformer program.
 
