@@ -24,5 +24,8 @@ when a lower-RAM MSX1 is using on-screen VRAM pattern storage as work RAM earlie
 2432 digits computed on an (emulated) MSX2+ using the 8k+ version *(about 1 hour 33 minutes)*
 <img width="537" alt="image" src="https://github.com/user-attachments/assets/fa4e68d2-df6c-4ffd-9d1c-da85fbe61cff" />
 
+5376 digits computed on an (emulated) MSX turbo R using the full version *(512x212)*
+<img width="537" alt="image" src="https://github.com/user-attachments/assets/5dada8d2-13d6-45f8-83eb-7b0cc2cbf5b4" />
+
 10752 digits computed on an (emulated) MSX turbo R using the full version *(interlaced 512x424)*
 <img width="537" alt="image" src="https://github.com/user-attachments/assets/763be350-119a-4367-b881-b64265d8b110" />
