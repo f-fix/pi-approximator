@@ -16,4 +16,4 @@ when a lower-RAM MSX1 is using on-screen VRAM pattern storage as work RAM earlie
 
 ### screenshots
 1392 digits computed on an (emulated) MSX with 8K of RAM
-<img width="1612" height="1079" alt="image" src="https://github.com/user-attachments/assets/33444c45-1c59-47f5-9f5c-d559d3a99992" />
+<img width="1608" height="1006" alt="image" src="https://github.com/user-attachments/assets/2e21db5f-56fd-4edd-aa1d-392b79edf6e1" />
