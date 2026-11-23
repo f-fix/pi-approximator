@@ -10,4 +10,8 @@ digit capacities:
 
 **8k+ version** MSX 8k: 1392 digits; MSX/2/2+/tR 16k+: 2432 digits
 
-when a lower-RAM MSX1 is using on-screen VRAM pattern storage as work RAM earlier in the computation that is intentionally visible.
+when a lower-RAM MSX1 is using on-screen VRAM pattern storage as work RAM earlier in the computation that is intentionally visible. you can watch the work area move "out of the way" of the advancing digit display:
+<img width="537" height="359" alt="image" src="https://github.com/user-attachments/assets/9cb0e561-d8de-4e4b-bedc-e9492d9d5880" />
+<img width="537" height="359" alt="image" src="https://github.com/user-attachments/assets/15924f9f-074a-41d4-a8b9-9d97a4cc0a61" />
+
+
