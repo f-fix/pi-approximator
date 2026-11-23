@@ -11,15 +11,15 @@ digit capacities:
 **8k+ version** MSX 8k: 1392 digits; MSX/2/2+/tR 16k+: 2432 digits
 
 when a lower-RAM MSX1 is using on-screen VRAM pattern storage as work RAM earlier in the computation that is intentionally visible. you can watch the work area move "out of the way" of the advancing digit display:
-<img width="537" height="359" alt="image" src="https://github.com/user-attachments/assets/9cb0e561-d8de-4e4b-bedc-e9492d9d5880" />
-<img width="537" height="359" alt="image" src="https://github.com/user-attachments/assets/15924f9f-074a-41d4-a8b9-9d97a4cc0a61" />
+<img width="537" alt="image" src="https://github.com/user-attachments/assets/9cb0e561-d8de-4e4b-bedc-e9492d9d5880" />
+<img width="537" alt="image" src="https://github.com/user-attachments/assets/15924f9f-074a-41d4-a8b9-9d97a4cc0a61" />
 
 ### screenshots
 2432 digits computed on an (emulated) MSX with 16K of RAM and 16K of VRAM using the 8k+ version
-<img width="1606" height="1079" alt="image" src="https://github.com/user-attachments/assets/ac8b3d8f-9db2-470f-94fc-0e52f51eb51c" />
+<img width="537" alt="image" src="https://github.com/user-attachments/assets/ac8b3d8f-9db2-470f-94fc-0e52f51eb51c" />
 
 1392 digits computed on an (emulated) MSX with 8K of RAM and 16K of VRAM using the 8k+ version
-<img width="1608" height="1006" alt="image" src="https://github.com/user-attachments/assets/2e21db5f-56fd-4edd-aa1d-392b79edf6e1" />
+<img width="537" alt="image" src="https://github.com/user-attachments/assets/2e21db5f-56fd-4edd-aa1d-392b79edf6e1" />
 
 2432 digits computed on an (emulated) MSX2+ using the 8k+ version
-<img width="1465" height="1079" alt="image" src="https://github.com/user-attachments/assets/fa4e68d2-df6c-4ffd-9d1c-da85fbe61cff" />
+<img width="537" alt="image" src="https://github.com/user-attachments/assets/fa4e68d2-df6c-4ffd-9d1c-da85fbe61cff" />
